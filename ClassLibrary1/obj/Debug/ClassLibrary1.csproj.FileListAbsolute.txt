@@ -1,0 +1,11 @@
+C:\Users\ASUS\source\repos\WindowsFormsApp4\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\ASUS\source\repos\WindowsFormsApp4\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\ASUS\source\repos\WindowsFormsApp4\ClassLibrary1\obj\Debug\ClassLibrary1.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\WindowsFormsApp4\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\WindowsFormsApp4\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\ASUS\source\repos\WindowsFormsApp4\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\Nikita\Desktop\WindowsFormsApp4\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Nikita\Desktop\WindowsFormsApp4\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Nikita\Desktop\WindowsFormsApp4\ClassLibrary1\obj\Debug\ClassLibrary1.csprojAssemblyReference.cache
+C:\Users\Nikita\Desktop\WindowsFormsApp4\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Nikita\Desktop\WindowsFormsApp4\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
